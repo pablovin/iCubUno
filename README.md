@@ -4,6 +4,7 @@ This repository holds all the necessary scripts involved on the iCubUno project.
 This project intends to teach an iCub robot on how to play the UNO card game with different humans. 
 More information about the project can be found in our recent position paper: https://arxiv.org/abs/1908.00744
 
+(ProjectSummary/EPIROBPoster_print-1.png)
 
 
 # Generating the deck
@@ -27,6 +28,10 @@ This scripts logs in a .csv file each action (draw/discard) with the time it hap
 ![Event time line example](Logexample/Example_Video1_Timeline.png)
 
 The  [Time Log Example](Logexample/Example_Video1_EventsLog.csv) exhibits an example of the events of a recorded game.
+
+
+
+
 
 # Contact
 
