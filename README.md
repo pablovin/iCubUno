@@ -1,5 +1,5 @@
 # iCubUno
-This repository holds all the necessary scripts involved on the iCubUno project.
+This repository holds all the necessary scripts involved on the iCubUno project. This is currently a work in progress :)
 
 This project intends to teach an iCub robot on how to play the UNO card game with different humans. 
 More information about the project can be found in our recent position paper: https://arxiv.org/abs/1908.00744
@@ -28,7 +28,9 @@ This scripts logs in a .csv file each action (draw/discard) with the time it hap
 
 The  [Time Log Example](Logexample/Example_Video1_EventsLog.csv) exhibits an example of the events of a recorded game.
 
-# Dependencies
+# Contact
+
+For me information, please contact Pablo Barros: pablovin@gmail.com
 
 
 
