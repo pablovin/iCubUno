@@ -4,7 +4,7 @@ This repository holds all the necessary scripts involved on the iCubUno project.
 This project intends to teach an iCub robot on how to play the UNO card game with different humans. 
 More information about the project can be found in our recent position paper: https://arxiv.org/abs/1908.00744
 
-(ProjectSummary/EPIROBPoster_print-1.png)
+![Project poster](ProjectSummary/EPIROBPoster_print-1.png)
 
 
 # Generating the deck
