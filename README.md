@@ -19,7 +19,7 @@ The scripts currently generates cards with for colours (red, blue, green and yel
 
 The PlayGame.py script logs an entire game. It starts with the players drawing cards. The deck and discard pile must be positioned in front of a camera, in order to have the QR-code decoded:
 
-![Card position example](Logexample/2113.png)
+![Card position example](Logexample/2109.png)
 
 Each player then can discard a card, or draw a card. The game ends when one of the players have 0 cards in the hand.
 This scripts logs in a .csv file each action (draw/discard) with the time it happened, the cards each player has at hand when the action happened, and the cards in the discard pile.
